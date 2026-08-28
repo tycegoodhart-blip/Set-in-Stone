@@ -10,6 +10,15 @@ html {
     font-family: 'Russo One', sans-serif;
 }
 
+#custom-logo {
+    display: block;
+    width: 200px;
+    max-width: 42vw;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 0.5rem;
+}
+
 body,
 button,
 input,
